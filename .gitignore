@@ -1,0 +1,39 @@
+# Executáveis C
+*.exe
+*.out
+*.o
+a.out
+main.exe
+
+# Executáveis C#
+*.dll
+*.pdb
+
+# Pastas de build
+bin/
+obj/
+.vs/
+Debug/
+Release/
+
+# Arquivos de projeto
+*.user
+*.suo
+*.sln.docstates
+
+# Arquivos Java compilados
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
