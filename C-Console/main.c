@@ -17,7 +17,7 @@ int main() {
     bool jogoAtivo = true;
     int posicaoEscolhida = 11, vitoriasX = 0, vitoriasO = 0, modoJogo = 3;
     char continuar, jogadorAtual = 'X';
-    //srand(time(NULL));
+    srand(time(NULL));
     
     do {
         char tabuleiro[9] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
